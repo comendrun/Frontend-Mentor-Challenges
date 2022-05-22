@@ -62,21 +62,21 @@ All Frontend Mentor Challenges
 
 - <a href="https://comendrun.github.io/social-proof-section/">Live-website</a>
 - <a href="https://github.com/comendrun/social-proof-section">Github Repository</a>
-- frontend-mentor solution page: <a href="https://www.frontendmentor.io/solutions/used-css-grid-and-flexbox-and-also-mobilefirst-approach-HywF4fPUq">Frontend-Mentor Solution Page</a>
+- <a href="https://www.frontendmentor.io/solutions/used-css-grid-and-flexbox-and-also-mobilefirst-approach-HywF4fPUq">Frontend-Mentor Solution Page</a>
 
 
 ## 10- Four card feature section
 
 - <a href="https://comendrun.github.io/Four-Card-Feature-Section/">Live-website</a>
 - <a href="https://github.com/comendrun/Four-Card-Feature-Section/blob/new-branch/README.md">Github Repository</a>
-- frontend-mentor solution page: <a href="https://www.frontendmentor.io/solutions/using-flexbox-and-also-mobilefirst-approach-to-finish-this-challenge-BkOkmfiIc">Frontend-Mentor Solution Page</a>
+- <a href="https://www.frontendmentor.io/solutions/using-flexbox-and-also-mobilefirst-approach-to-finish-this-challenge-BkOkmfiIc">Frontend-Mentor Solution Page</a>
 
 
 ## 11- Base Apparel coming soon page
 
 - <a href="https://comendrun.github.io/base-apparel-coming-soon/">Live-website</a>
 - <a href="https://github.com/comendrun/base-apparel-coming-soon">Github Repository</a>
-- frontend-mentor solution page: <a href="https://www.frontendmentor.io/solutions/html-css-js-regex-mobilefirst-approach-SJZ-naCU9">Frontend-Mentor Solution Page</a>
+- <a href="https://www.frontendmentor.io/solutions/html-css-js-regex-mobilefirst-approach-SJZ-naCU9">Frontend-Mentor Solution Page</a>
 
 
 ## 12- Intro component with sign-up form
