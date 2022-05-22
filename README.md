@@ -4,7 +4,7 @@ All Frontend Mentor Challenges
 
 ## 1- QR code component
 
-- live-website:["https://nnf4sx.csb.app/"]
+- live-website:[url:("https://nnf4sx.csb.app/")]
 - git-repo: [https://github.com/comendrun/qr-code-component/tree/main/]
 - frontend-mentor solution page: [https://www.frontendmentor.io/solutions/html-cssflexbox-r1rhFXor5]
 
