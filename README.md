@@ -99,3 +99,8 @@ All Frontend Mentor Challenges
 - <a href="https://github.com/comendrun/Ping-Coming-Soon-Page">Github Repository</a>
 - <a href="https://www.frontendmentor.io/solutions/mobilefirst-approach-css-flexbox-and-8XA4qSO-SG">Frontend-Mentor Solution Page</a>
 
+## 15- Huddle landing page with a single introductory section
+
+- <a href="https://comendrun.github.io/Huddle-landing-Page-With-Single-Introductory-Section/">Live-website</a>
+- <a href="https://github.com/comendrun/Huddle-landing-Page-With-Single-Introductory-Section">Github Repository</a>
+- <a href="https://www.frontendmentor.io/solutions/used-mobilefirst-approach-and-css-flexbox-OUfehDan_i">Frontend-Mentor Solution Page</a>
