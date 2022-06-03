@@ -104,3 +104,15 @@ All Frontend Mentor Challenges
 - <a href="https://comendrun.github.io/Huddle-landing-Page-With-Single-Introductory-Section/">Live-website</a>
 - <a href="https://github.com/comendrun/Huddle-landing-Page-With-Single-Introductory-Section">Github Repository</a>
 - <a href="https://www.frontendmentor.io/solutions/used-mobilefirst-approach-and-css-flexbox-OUfehDan_i">Frontend-Mentor Solution Page</a>
+
+## 16- Intro section with dropdown navigation
+
+- <a href="https://comendrun.github.io/Intro-Section-With-Dropdown-Navigation/">Live-website</a>
+- <a href="https://github.com/comendrun/Intro-Section-With-Dropdown-Navigation">Github Repository</a>
+- <a href="https://www.frontendmentor.io/solutions/mobilefirst-approach-and-cssflex-U1YEOxfiwA">Frontend-Mentor Solution Page</a>
+
+## 17- Huddle landing page with a single introductory section
+
+- <a href="https://comendrun.github.io/Advice-Generator-App/">Live-website</a>
+- <a href="https://github.com/comendrun/Advice-Generator-App">Github Repository</a>
+- <a href="https://www.frontendmentor.io/solutions/advicegen-using-mobilefirst-approach-css-flexbox-eyPXtVmvDw">Frontend-Mentor Solution Page</a>
