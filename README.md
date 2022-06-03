@@ -111,7 +111,7 @@
 - <a href="https://github.com/comendrun/Intro-Section-With-Dropdown-Navigation">Github Repository</a>
 - <a href="https://www.frontendmentor.io/solutions/mobilefirst-approach-and-cssflex-U1YEOxfiwA">Frontend-Mentor Solution Page</a>
 
-## 17- Huddle landing page with a single introductory section
+## 17- Advice generator app
 
 - <a href="https://comendrun.github.io/Advice-Generator-App/">Live-website</a>
 - <a href="https://github.com/comendrun/Advice-Generator-App">Github Repository</a>
