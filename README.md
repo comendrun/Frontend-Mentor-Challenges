@@ -116,3 +116,9 @@
 - <a href="https://comendrun.github.io/Advice-Generator-App/">Live-website</a>
 - <a href="https://github.com/comendrun/Advice-Generator-App">Github Repository</a>
 - <a href="https://www.frontendmentor.io/solutions/advicegen-using-mobilefirst-approach-css-flexbox-eyPXtVmvDw">Frontend-Mentor Solution Page</a>
+
+## 18- Time Tracking Dashboard
+
+- <a href="https://comendrun.github.io/Time-Tracking-Dashboard/">Live-website</a>
+- <a href="https://github.com/comendrun/Time-Tracking-Dashboard/blob/master/README.md">Github Repository</a>
+- <a href="https://www.frontendmentor.io/solutions/ttd-using-sass-cssgridreactjs-jJCSNgTNAp">Frontend-Mentor Solution Page</a>
