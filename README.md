@@ -122,3 +122,9 @@
 - <a href="https://comendrun.github.io/Time-Tracking-Dashboard/">Live-website</a>
 - <a href="https://github.com/comendrun/Time-Tracking-Dashboard/blob/master/README.md">Github Repository</a>
 - <a href="https://www.frontendmentor.io/solutions/ttd-using-sass-cssgridreactjs-jJCSNgTNAp">Frontend-Mentor Solution Page</a>
+
+## 19- Tip Calculator app
+
+- <a href="https://comendrun.github.io/Tip-calculator-app/">Live-website</a>
+- <a href="https://github.com/comendrun/Tip-calculator-app">Github Repository</a>
+- <a href="https://www.frontendmentor.io/solutions/used-reactjs-csscustomprops-and-mobilefirst-approach-5vKQ0_y3oS">Frontend-Mentor Solution Page</a>
