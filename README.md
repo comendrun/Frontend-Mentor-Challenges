@@ -6,7 +6,7 @@
 
 - <a href="https://nnf4sx.csb.app/">Live-website</a>
 - <a href="https://github.com/comendrun/qr-code-component/tree/main/">Github Repository</a>
-- <button ><a href="https://www.frontendmentor.io/solutions/html-cssflexbox-r1rhFXor5">Frontend-Mentor Solution Page</a><button>
+- <a href="https://www.frontendmentor.io/solutions/html-cssflexbox-r1rhFXor5">Frontend-Mentor Solution Page</a>
 
 
 ## 2- NFT preview card component
