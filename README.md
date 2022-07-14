@@ -1,6 +1,14 @@
 # Frontend-Mentor-Challenges
 <a href="https://comendrun.github.io/Frontend-Mentor-Challenges/">All Frontend Mentor Challenges</a>
 
+<style>
+.button {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+ border-radius:15px;
+}
+</style>
 
 <a href="#" class="button">Post comment (link)</a>
 <input class="button" type="submit" value="Post comment (input)">
