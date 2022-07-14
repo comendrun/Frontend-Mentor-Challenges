@@ -2,6 +2,10 @@
 <a href="https://comendrun.github.io/Frontend-Mentor-Challenges/">All Frontend Mentor Challenges</a>
 
 
+<a href="#" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
+
 ## 1- QR code component
 
 - <a href="https://nnf4sx.csb.app/">Live-website</a>
