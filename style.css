@@ -1,0 +1,83 @@
+:root {
+  --body-bg: #00132d;
+  --header-bg: #023e8a;
+  --boxes-bg: #002657;
+  --ff: "Poppins", sans-serif;
+  --border-r: 10px;
+}
+:root.light {
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--ff);
+}
+body {
+  max-width: 80%;
+  border: 1px solid white;
+  background-color: var(--body-bg);
+  color: white;
+  margin: 1rem auto;
+  
+  border-radius: var(--border-r);
+  /* overflow: hidden; */
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header {
+  padding: 1rem;
+  margin: auto;
+  /* background-color: var(--header-bg); */
+  /* border: 2px solid white; */
+  border-radius: var(--border-r);
+}
+header .title {
+  font-size: 0.8rem;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  margin: auto;
+  /* border: 1px solid red; */
+}
+.title a {
+}
+.all-challenges-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+}
+.challenge-container {
+  border: 1px solid white;
+  max-width:90%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  min-height: 10rem;
+  justify-content: center;
+  gap: 2rem;
+  align-items: center;
+  text-align: center;
+  font-size: 0.8em;
+  /* background-color: var(--boxes-bg); */
+  border-radius: 10px;
+}
+.challenge-container div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+.challenge-container a {
+  padding: 0.5rem 1rem;
+  border: 1px solid white;
+  font-size: 0.8em;
+  border-radius: 10px;
+}

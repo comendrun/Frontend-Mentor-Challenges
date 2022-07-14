@@ -1,11 +1,4 @@
-<style>
-.button {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
- border-radius:15px;
-}
-</style>
+
 
 # Frontend-Mentor-Challenges
 <a href="https://comendrun.github.io/Frontend-Mentor-Challenges/">All Frontend Mentor Challenges</a>
