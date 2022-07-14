@@ -1,20 +1,6 @@
-<style>
-.button {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
- border-radius:15px;
-}
-</style>
-
 # Frontend-Mentor-Challenges
 <a href="https://comendrun.github.io/Frontend-Mentor-Challenges/">All Frontend Mentor Challenges</a>
 
-
-
-<a href="#" class="button">Post comment (link)</a>
-<input class="button" type="submit" value="Post comment (input)">
-<button class="button" type="submit">Post comment (button)</button>
 
 ## 1- QR code component
 
