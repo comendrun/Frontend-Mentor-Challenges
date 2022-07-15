@@ -39,7 +39,7 @@ header {
   padding: 1rem;
   margin: auto;
   /* background-color: var(--header-bg); */
-  /* border: 2px solid white; */
+  border: 2px solid white;
   border-radius: var(--border-r);
 }
 header .title {
