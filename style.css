@@ -24,7 +24,8 @@ body {
   width: 95%;
   max-width: 1100px;
   /* border: 1px solid var(--body-border-c); */
-  background-color: var(--body-bg);
+  /* background-color: var(--body-bg); */
+  background-color: white;
   color: white;
   margin: 1rem auto;
   border-radius: var(--border-r);
