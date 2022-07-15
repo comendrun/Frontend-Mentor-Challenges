@@ -23,7 +23,7 @@ html {
 body {
   width: 95%;
   max-width: 1100px;
-  border: 1px solid var(--body-border-c);
+  /* border: 1px solid var(--body-border-c); */
   background-color: var(--body-bg);
   color: white;
   margin: 1rem auto;
@@ -71,7 +71,7 @@ header .title {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  min-height: 10rem;
+  min-height: 15rem;
   justify-content: center;
   gap: 2rem;
   align-items: center;
