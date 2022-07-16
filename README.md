@@ -5,9 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>All Done Frontend Challenges</title>
-
-    <style></style>
-
+    <style>
+        body {
+  width: 95%;
+  max-width: 1100px;
+  background-color: white;
+  color: white;
+  margin: 1rem auto;
+  border-radius: var(--border-r);
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.challenge-container a {
+  padding: 0.5rem 1rem;
+  border: 1px solid rgb(0,0,0);
+  font-size: 0.8em;
+  border-radius: 10px;
+}
+    </style>
   </head>
   <body class="dark">
     <header>
