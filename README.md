@@ -23,7 +23,6 @@
       </div>
       <nav></nav>
     </header>
-
     <div class="container">
       <div class="all-challenges-container">
         <div class="challenge-container">
@@ -52,7 +51,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>NFT preview card component</h2>
           <div>
@@ -80,7 +78,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Order summary component</h2>
           <div>
@@ -107,7 +104,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Stats preview card component</h2>
           <div>
@@ -134,7 +130,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Interactive rating component</h2>
           <div>
@@ -161,7 +156,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>3-column preview card component</h2>
           <div>
@@ -188,7 +182,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Profile card component</h2>
           <div>
@@ -215,7 +208,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>FAQ accordion card</h2>
           <div>
@@ -242,7 +234,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Social proof section</h2>
           <div>
@@ -269,7 +260,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Four card feature section</h2>
           <div>
@@ -296,7 +286,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Base Apparel coming soon page</h2>
           <div>
@@ -323,7 +312,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Intro component with sign-up form</h2>
           <div>
@@ -350,7 +338,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Single price grid component</h2>
           <div>
@@ -377,7 +364,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Ping single column coming soon page</h2>
           <div>
@@ -404,7 +390,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Huddle landing page with a single introductory section</h2>
           <div>
@@ -431,7 +416,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Intro section with dropdown navigation</h2>
           <div>
@@ -458,7 +442,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Advice generator app</h2>
           <div>
@@ -485,7 +468,6 @@
             >
           </div>
         </div>
-
         <div class="challenge-container">
           <h2>Time Tracking Dashboard</h2>
           <div>
@@ -592,6 +574,5 @@
         </div>
       </div>
     </div>
-
   </body>
 </html>
